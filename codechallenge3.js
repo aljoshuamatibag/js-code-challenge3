@@ -59,3 +59,10 @@ console.log('$' + yourFinalBillAndTipAnotherAgain + ' is your final bill plus ti
 
 var billsAndTips = [yourFinalBillAndTip, yourFinalBillAndTipAnother, yourFinalBillAndTipAnotherAgain];
 console.log(billsAndTips);
+
+// first time I've done something that I am stoked for and for long. I've been coding for quite
+// some time now. Had some relapses during, but I'm not quiting 'coz this is now my life now
+// aside ofcourse from skateboarding. My intuition also says "u code" and then I just blindly follow
+// there's a that I think I should quit because some lessons is hard to grasp. But, I insist myself
+// to persevere and continue. I will always remember this and read this. I think this is now
+// my journey into the world of "coding", nerd! haha.
